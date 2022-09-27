@@ -9,6 +9,7 @@ namespace Unit01
         {
             Console.WriteLine("Welcome to the Tic Tac Toe game!");
             Console.WriteLine("This is a new line");
+            Console.WriteLine("This is a second new line");
             // int[]gameboard = new int[9];
             // board[0] = 0;
             // board[1] = 1;
