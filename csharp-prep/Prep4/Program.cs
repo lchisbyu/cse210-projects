@@ -7,7 +7,7 @@ namespace Prep4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is Prep 4");
+            Console.WriteLine("This is Prep 4 yes i am slowly remembering how to do this - makes me happy !");
         }
     }
 }
